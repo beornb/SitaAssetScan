@@ -46,7 +46,7 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
-     <gap:plugin name="phonegap-plugin-barcodescanner" />
+     <gap:plugin name="com.phonegap.plugins.barcodescanner" />
     <gap:plugin name="nl.x-services.plugins.launchmyapp">
       
       <param name="URL_SCHEME" value="bizframefield" />
